@@ -1,0 +1,13 @@
+I worked my way through Why's (poignant) Guide to Ruby.  I kept my progress in 
+git because I use git at home all the time.  I'm a little proud of my 
+version of decody.rb, because I think I improved it.  So, I tossed the whole
+thing up here on github.
+
+All of the code here except decody.rb is very close to the originals in W(p)GtR,
+and should probably be considered Why's code that I typed into my system.  
+
+decody.rb is more modified in ways that seemed clever to me when I did them.
+Please check it out and feel free to weigh in on how good or idiomatic those 
+modifications seem to be.
+
+-Paul Curry, 2011
