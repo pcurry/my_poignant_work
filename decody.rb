@@ -6,6 +6,10 @@ class DeCody
     @key = justletters(key) 
   end
   
+  def justletters(str)
+    str.downcase.gsub(/[^a-z]/, '')
+  end
+  
   # Locates the letter in the presumed 5 X 5 grid
   def locate(letter)
     key_loc = @key.index(letter)
